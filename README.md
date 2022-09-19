@@ -1,5 +1,5 @@
 # Action-Decision-Network-ADN-for-Visual-Tracking
-(https://arxiv.org/pdf/2002.05709.pdf) <br>
+(https://openaccess.thecvf.com/content_cvpr_2017/papers/Yun_Action-Decision_Networks_for_CVPR_2017_paper.pdf) <br>
 Kaan Yarali (ky2446)
 
 ### Framework used: TensorFlow 
